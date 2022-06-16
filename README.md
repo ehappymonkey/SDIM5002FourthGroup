@@ -14,3 +14,9 @@ Object Identify:
 
 # Video
 https://youtu.be/jR6myUZJ5hU
+
+# Dataset
+Please refer to [5]	https://github.com/yasersaleh/Kinect2_Face_DB for the test dataset of our proposed face recognition algorithm. 
+
+# Camera Drivers
+Please refer to https://github.com/code-iai/iai_kinect2 and https://github.com/OpenKinect/libfreenect2 for the setup and calibreation for Kinect v2 camera.
